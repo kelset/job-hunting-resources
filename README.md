@@ -94,49 +94,48 @@
 - [I wish every Job Seeker would watch this - YouTube](https://www.youtube.com/watch?v=ZXmbb5fPfgk&t=108s)
 - [Land a Job using ChatGPT: The Definitive Guide! - YouTube](https://www.youtube.com/watch?v=pmnY5V16GSE)
 
-
 # PLATFORMS TO FIND ROLES
 
 ### **The undisputed king: [LinkedIn](https://www.linkedin.com) 👑**
 
 ### 🤝 Platforms where companies apply to you
 
-- [https://hired.co.uk](https://hired.co.uk/)
-- [https://www.talent.io](https://www.talent.io/p/en-gb/home)
-- [https://app.pallet.com](https://app.pallet.com/profile)
+- [Hired](https://hired.co.uk/)
+- [Talent.io](https://www.talent.io/p/en-gb/home)
+- [Pallet](https://app.pallet.com/profile)
   - **examples**
-    - https://pragmatic-engineer.pallet.com/jobs
-    - https://developerdao.pallet.com/jobs
+    - [Pragmatic Engineer Jobs at Pallet](https://pragmatic-engineer.pallet.com/jobs)
+    - [Developer DAO Jobs at Pallet](https://developerdao.pallet.com/jobs)
 - **freelance type things**
-  - https://www.toptal.com/
-  - https://gun.io/
+  - [Toptal](https://www.toptal.com/)
+  - [Gun.io](https://gun.io/)
 
 ### 📌 Niche communities & job boards
 
-- https://www.ycombinator.com/jobs
-- https://github.com/poteto/hiring-without-whiteboards
-- https://www.workatastartup.com/
-- https://wellfound.com/
-  - used to be [https://angel.co](https://angel.co/)
-- https://www.trueup.io/
-  - an AI improved version of basically a mix of those above
+- [Y Combinator Jobs](https://www.ycombinator.com/jobs)
+- [Hiring Without Whiteboards - GitHub](https://github.com/poteto/hiring-without-whiteboards)
+- [Work at a Startup](https://www.workatastartup.com/)
+- [Wellfound (formerly AngelList)](https://wellfound.com/)
+- [TrueUp](https://www.trueup.io/)
+  - An AI-improved version of basically a mix of those above
 
 ### 🧩 **Open source specific**
 
-- https://opensourcejobhub.com/
-- https://github.com/t9tio/open-source-jobs
-- https://www.fossjobs.net/
-- https://github.com/fossjobs/fossjobs/wiki/Resources#job-aggregators
-- https://www.trueup.io/open-source
-- https://fossfox.com/
+- [Open Source Job Hub](https://opensourcejobhub.com/)
+- [Open Source Jobs - GitHub](https://github.com/t9tio/open-source-jobs)
+- [FOSS Jobs](https://www.fossjobs.net/)
+- [FOSS Jobs Wiki - GitHub](https://github.com/fossjobs/fossjobs/wiki/Resources#job-aggregators)
+- [TrueUp for Open Source](https://www.trueup.io/open-source)
+- [Fossfox](https://fossfox.com/)
 
 ### 🌍 **Remote specific**
 
-- https://remotefriendly.com/
-- https://remoteok.com/
-- https://weworkremotely.com/
-- https://remotejobs.com/
-- https://fullremote.it/ 🇮🇹
+- [Remote Friendly](https://remotefriendly.com/)
+- [Remote OK](https://remoteok.com/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [Remote Jobs](https://remotejobs.com/)
+- [Full Remote (Italian)](https://fullremote.it/) 🇮🇹
+
 
 # THE EXTRA STEP
 
