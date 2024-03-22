@@ -1,7 +1,6 @@
-> I always had a hard time keep an eye on the React Native community, and in particular finding the “one place” where it lives - over time, I came to the understanding that basically there’s no such single place 😅 but that there are instead many scattered communities.
-> What I want this page to be is, basically, **a map of all the different places where React Native developers can be found**. Aside GitHub - I feel that one is pretty much a given 😅
+> This board is a simple collection of website and tools and tutorials and links and everything I could find around finding a role in tech. I hope it can help people have more success in their job hunts!
 
-> _I don’t necessarily use all these resources myself, but I wanted to collect as many as I could find - I based it on my personal experience + some links from around the web. But it’s by all means a fluid document: I really hope you all can [help me expand it](/CONTRIBUTING.md) to be more comprehensive. Special shoutout to Jérôme Abel for his help in adding more resources to this list!_
+> _I don’t necessarily use all these resources myself, but I wanted to collect as many as I could find - I based it on my personal experience + some links from around the web. But it’s by all means a fluid document: I really hope you all can [help me expand it](/CONTRIBUTING.md) to be more comprehensive._
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 <a href="https://github.com/kelset?tab=followers">
@@ -11,181 +10,149 @@
 <img alt="follow me on twitter" src="https://img.shields.io/twitter/follow/kelset?label=Follow%20%40kelset&style=social" />
 </a>
 
-- [🐦 Twitter](#-twitter)
-  - [🎗️ Twitter Communities](#️-twitter-communities)
-- [📨 Newsletters](#-newsletters)
-- [🕳 Subreddits](#-subreddits)
-- [🎙 Podcasts](#-podcasts)
-- [✍️ Blog Platforms](#️-blog-platforms)
-- [🧑‍🏫 Conferences](#-conferences)
-  - [⚛️ Non-RN Specific Confs](#️-non-rn-specific-confs)
-- [📹 Youtube Channels](#-youtube-channels)
-- [🌍 Open Source Apps](#-open-source-apps)
-- [💬 Discords And Slacks](#-discords-and-slacks)
-- [📚 Learning Resources](#-learning-resources)
-  - [👨‍🏫 Courses \& learning platforms](#-courses--learning-platforms)
-- [🗂 Linkedin Groups](#-linkedin-groups)
-- [🥽Everything Else Section](#everything-else-section)
+# BASELINE
 
-# 🐦 Twitter
+### 🌍 Developer communities
 
-- [Reactjs](https://twitter.com/reactjs)
-- [React Native](https://twitter.com/reactnative)
-- [Expo.io](https://twitter.com/expo)
-- [React Native at Microsoft](https://twitter.com/ReactNativeMSFT)
+- [Codebar](https://www.codebar.io/)
+- [Meetup](https://www.meetup.com/)
+  - **example**
+    - [React-JS-Milano](https://www.meetup.com/React-JS-Milano/)
+- [WomenWhoCode](https://www.womenwhocode.com/)
+- [IndieHackers.com](https://www.indiehackers.com/)
 
-_There are many more accounts worth mentioning, so the sake of convenience I made a 👉[Twitter list](https://twitter.com/i/lists/1542846324055281664) 👈 you can simply follow._
+#### other lists
 
-#### 🎗️ Twitter Communities
+- https://www.smashingmagazine.com/2022/11/search-developer-job-abroad/
+- https://modernrecruiters.com/best-developer-communities/
 
-- [React Native News & Tips](https://twitter.com/i/communities/1509407040095068166) (from InfiniteRed)
-- [React Native](https://twitter.com/i/communities/1488958864364032009) (from RNNow)
+### 🤓 Guides & articles & twitter threads
 
-_⚠️ I’m having a hard time finding alternatives to twitter when it comes to tech, but if you have some good Mastodon or other accounts you follow, please let me know!_
+- https://twitter.com/jesslynnrose/status/1592449469349388288
+- https://resumeworded.com/playbooks/career-change-checklist
+- https://twitter.com/patio11/status/1221683564950867968 (optimal way for a new job)
+- [How to prepare for losing your programming job](https://codewithoutrules.com/2020/05/14/prepare-losing-job/)
+- https://twitter.com/Mochievous/status/1267449504313286656 (apply to a job outside your country)
+- https://news.ycombinator.com/item?id=23455415 Ask HN: Moving from a startup to a big co, what should I be aware of?
+- https://twitter.com/JoshWComeau/status/1280171057832394752 (about cover letters)
+- https://www.jobsearch.dev/
+- https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556
+- https://mhlakhani.com/blog/2023/01/tech-job-market/
+- https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html
+- https://github.com/GuidoPenta/galactic-linkedin-profile-guide
+- https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start
+- https://github.com/cassidoo/getting-a-gig
 
-# 📨 Newsletters
+### 💭 Freelancing
 
-- [The React Native Newsletter](https://reactnative.cc/)
-- [This Week in React](https://thisweekinreact.com/)
-- [Javascript Weekly](https://javascriptweekly.com/)
-- [Mobile Developers Cafe's weekly newsletter](https://archive.mobiledeveloperscafe.com/archive)
-- [React Status](https://react.statuscode.com/)
-- [Optimistic Updates — Expo's monthly newsletter](https://expo.dev/mailing-list/signup)
+- https://github.com/sam-hosseini/freelancing-in-finland
+- https://gist.github.com/malarkey/4031110 (example of contract for freelancer)
+- https://dannybrown.blog/2020/06/11/unemployed-to-managing-director-in-one-easy-step/ (going freelance)
 
-# 🕳 Subreddits
+### 💻 AI based tools
 
-- [r/reactnative/](https://www.reddit.com/r/reactnative/)
-- [r/reactjs/](https://www.reddit.com/r/reactjs/)
-- [r/javascript/](https://www.reddit.com/r/javascript/)
+- https://resumaker.ai/
+- https://www.interviewsby.ai/
+- https://www.wonsulting.ai/
+- https://thejobforme.com/
+- https://jobhunnt.com/
+- https://getexistential.com/
+- https://www.jobscan.co/
+- https://aragon.ai/
+- https://recless.app/
+- https://jobprofile.io/
+- https://jobinterview.coach/
+- https://engage-ai.co/
+- https://app.yoodli.ai/
+- https://www.kickresume.com/en/
 
-# 🎙 Podcasts
+### 🖍️ Internships & Similar
 
-- [The React Native Show Podcast](https://open.spotify.com/show/1tSJK3Eo7yh1nzaZsfcnf9)
-- [React Native Radio](https://reactnativeradio.com/)
-- [Reactiflux Events](https://podcasters.spotify.com/pod/show/reactiflux/)
-- [Rocket Ship](https://podcast.galaxies.dev/)
+- [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/)
 
-# ✍️ Blog Platforms
+### 🗒️ About writing resumes
 
-_(links are to the tags “react-native”)_
+- [How to Make a Resume for a Job](https://www.youtube.com/watch?v=9eEv6bCtLmc)
+- [Resumes suck. Here’s the data.](http://blog.alinelerner.com/resumes-suck-heres-the-data/)
+- [Lessons from a year’s worth of hiring data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
+- [https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html](https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html?campaign_id=12&instance_id=28337&nl=your-money&regi_id=150195311&segment_id=53938&te=1&user_id=c7171fc9d27bc81913733c6703093a61)
+- https://twitter.com/CyberKenna/status/1518301702163779584
+- https://www.youtube.com/watch?v=Kpm8rEywBDQ
+- https://resumeworded.com/gap-on-resume-key-advice
+- https://resumeworded.com/resume-trends-2023-key-advice
+- https://resumeworded.com/blog/executive-resume/
+- https://resumeworded.com/manage-employees-on-a-resume-key-advice
+- https://github.com/GuidoPenta/galactic-CV-guide
 
-- DEV Community: https://dev.to/t/reactnative
-- Medium: https://medium.com/tag/react-native
-- Hashnode: https://hashnode.com/n/react-native
+### 📝 Writing resumes tools
 
-# 🧑‍🏫 Conferences
+- https://standardresume.co/
+- https://resumey.pro/
+- https://www.open-resume.com/
 
-- [Chain React Conf](https://cr.infinite.red/)
-- [AppJS Conf](https://appjs.co/)
-- [React Native Heroes](https://reactnativeheroes.com)
-- [React Native Connection](https://reactnativeconnection.io/)
+### 🤖 How to use ChatGPT
 
-#### ⚛️ Non-RN Specific Confs
+- [I wish every Job Seeker would watch this](https://www.youtube.com/watch?v=ZXmbb5fPfgk&t=108s)
+- [Land a Job using ChatGPT: The Definitive Guide!](https://www.youtube.com/watch?v=pmnY5V16GSE)
 
-- [React Universe Conf](https://www.reactuniverseconf.com/) (formerly [React Native Europe](https://www.react-native.eu/))
-- [ReactJS Conf](https://conf.reactjs.org/)
-- [React Summit](https://reactsummit.com/)
-- [React Advanced](https://reactadvanced.com/)
-- [CascadiaJS](https://cascadiajs.com/)
-- [NordicJS](https://nordicjs.com/2022)
-- [Reactathon](https://www.reactathon.com/)
-- [CityJS Conf](https://cityjsconf.org/)
-- [JS Conf](https://jsconfbp.com/)
-- [React India](https://www.reactindia.io/)
-- [React Alicante](https://reactalicante.es/)
-- [React Next](https://www.react-next.com/)
-- [React Day Berlin](https://reactday.berlin/)
-- [React Conf Brazil](https://reactconf.com.br/)
+# PLATFORMS TO FIND ROLES
 
-# 📹 Youtube Channels
+### **The undisputed king: [LinkedIn](https://www.linkedin.com) 👑**
 
-- [Callstack Engineers](https://www.youtube.com/c/CallstackEngineers) _(talks from RNEU conf are here)_
-- [InfiniteRed](https://www.youtube.com/c/InfiniteRed) _(talks from ChainReact conf are here, plus other stuff)_
-- [Software Mansion](https://www.youtube.com/channel/UCKgDsBDpYdZf2mbRzcEC8FA) _(talks from AppJS conf are here)_
-- [William Candillon](https://www.youtube.com/c/wcandillon) _(”Can it be done in RN?”)_
-- [Expo Developers](https://www.youtube.com/c/ExpoDevelopers)
-- [devaslife](https://www.youtube.com/devaslife)
-- [Catalin Miron](https://www.youtube.com/c/CatalinMironDev)
-- [evening kid](https://www.youtube.com/c/eveningkid)
-- [uidotdev](https://www.youtube.com/c/uidotdev)
-- [ByProgrammersOfficial](https://www.youtube.com/c/ByProgrammersOfficial/videos)
-- [SimCoder](https://www.youtube.com/c/SimpleCoder/videos)
-- [notJust․dev](https://www.youtube.com/c/notjustdev)
-- [codeERIC](https://www.youtube.com/user/evicenti)
-- [Oscar Franco](https://www.youtube.com/c/OscarFrancoCoding/videos)
-- [Jimmy Cook](https://www.youtube.com/c/Jimck/featured)
-- [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
-- [Dan's React Native Lab](https://www.youtube.com/@DanRNLab)
-- [Jack Herrington](https://www.youtube.com/@jherr)
-- [Matt Pocock](https://www.youtube.com/@mattpocockuk)
-- [Code with Beto](https://www.youtube.com/@codewithbeto)
-- [Codevolution](https://www.youtube.com/@Codevolution)
-- [Reactiive](https://www.youtube.com/@Reactiive/featured)
+### 🤝 Platforms where companies apply to you
 
-# 🌍 Open Source Apps
+- [https://hired.co.uk](https://hired.co.uk/)
+- [https://www.talent.io](https://www.talent.io/p/en-gb/home)
+- [https://app.pallet.com](https://app.pallet.com/profile)
+  - **examples**
+    - https://pragmatic-engineer.pallet.com/jobs
+    - https://developerdao.pallet.com/jobs
+- **freelance type things**
+  - https://www.toptal.com/
+  - https://gun.io/
 
-- YajanaRao's Serenity [mobile](https://github.com/YajanaRao/Serenity/tree/develop/apps/mobile)
-- Rainbow-me's [rainbow](https://github.com/rainbow-me/rainbow)
-- Heylinda's [heylinda-app](https://github.com/heylinda/heylinda-app)
-- Mattermost's [mattermost-mobile](https://github.com/mattermost/mattermost-mobile)
-- Staltz's [manyverse](https://gitlab.com/staltz/manyverse)
-- CommE2E's [native](https://github.com/CommE2E/comm/tree/master/native)
-- Pagopa's [io-app](https://github.com/pagopa/io-app)
-- Kolplattformen's [skolplattformen](https://github.com/kolplattformen/skolplattformen)
-- StandardNotes's [mobile](https://github.com/standardnotes/app/tree/main/packages/mobile)
-- Discourse's [DiscourseMobile](https://github.com/discourse/DiscourseMobile)
-- Guytepper's [better-rail](https://github.com/guytepper/better-rail)
-- RocketChat's [mobile app](https://github.com/RocketChat/Rocket.Chat.ReactNative/)
-- Jgalat's [remote-app](https://github.com/jgalat/remote-app)
-- Tooot-app's [app](https://github.com/tooot-app/app)
-- Expensify's [App](https://github.com/Expensify/App)
-- Status-im's [status-mobile](https://github.com/status-im/status-mobile)
-- Notesnook's [mobile](https://github.com/streetwriters/notesnook/tree/master/apps/mobile)
-- Bluesk's [social-app](https://github.com/bluesky-social/social-app)
-- 4twiggers's [realremote-front](https://github.com/4TWIGGERS/realremote-front)
-- iNaturalist's [mobile app](https://github.com/inaturalist/iNaturalistReactNative)
-- Showtime-xyz's [showtime-frontend](https://github.com/showtime-xyz/showtime-frontend)
-- Shootismoke's [mobile-app](https://github.com/shootismoke/mobile-app)
-- Kwsong0113's [imagine](https://github.com/kwsong0113/imagine)
-- Bndkt's [sharemystack](https://github.com/bndkt/sharemystack)
+### 📌 Niche communities & job boards
 
-# 💬 Discords And Slacks
+- https://www.ycombinator.com/jobs
+- https://github.com/poteto/hiring-without-whiteboards
+- https://www.workatastartup.com/
+- https://wellfound.com/
+  - used to be [https://angel.co](https://angel.co/)
+- https://www.trueup.io/
+  - an AI improved version of basically a mix of those above
 
-- [Reactiflux](https://www.reactiflux.com/)
-- [Expo Developers’ Discord server](https://chat.expo.dev/)
-- [Infinite Red's Slack Group](http://community.infinite.red/)
-- [Invertase.io's Discord server (React Native Firebase)](https://discord.gg/C9aK28N)
-- [Callstack.io's Discord server](https://discordapp.com/invite/zwR2Cdh)
-- [Margelo Community Discord](https://discord.gg/6CSHz2qAvA)
+### 🧩 **Open source specific**
 
-# 📚 Learning Resources
+- https://opensourcejobhub.com/
+- https://github.com/t9tio/open-source-jobs
+- https://www.fossjobs.net/
+- https://github.com/fossjobs/fossjobs/wiki/Resources#job-aggregators
+- https://www.trueup.io/open-source
+- https://fossfox.com/
 
-- [React docs](https://react.dev/)
-- [React Native official docs](https://reactnative.dev/)
-- [Expo official docs](https://docs.expo.dev/)
-- [React Native Buddy - a custom GPT to help you use React Native well](https://chat.openai.com/g/g-S9qpp72cb-react-native-buddy)
+### 🌍 **Remote specific**
 
-#### 👨‍🏫 Courses & learning platforms
+- https://remotefriendly.com/
+- https://remoteok.com/
+- https://weworkremotely.com/
+- https://remotejobs.com/
+- https://fullremote.it/ 🇮🇹
 
-- codecademy’s [Learn React Native (in partnership with Expo)](https://www.codecademy.com/learn/learn-react-native)
-- coursera’s [React Native course by Meta Staff](https://www.coursera.org/learn/react-native-course)
-- freeCodeCamp.org’s [React Native Course – Android and iOS App Development](https://www.youtube.com/watch?v=obH0Po_RdWk) (Apr’23)
-- JavaScript Mastery’s [Build and Deploy a React Native App](https://www.youtube.com/watch?v=mJ3bGvy0WAY) (Mar’23)
-- Catalin Miron’s [AnimateReactNative](https://www.animatereactnative.com/)
-- William Candillon’s [Start React Native](https://start-react-native.dev/)
-- Maximilian Schwarzmüller’s Udemy’s [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/?start=0)
-- Stephen Grider’s Udemy’s [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
-- Simon Grimm’s [GalaxyDevs](https://galaxies.dev/)
+# THE EXTRA STEP
 
-# 🗂 Linkedin Groups
+### 🔍 Company reviews / data / insider info
 
-_(does anyone actually use them to connect with other devs? if you have a good experience with these, [let me know](https://github.com/kelset/kelset/issues/3) - from my experience they are quite full of spam)_
+- https://www.glassdoor.com/index.htm
+- [https://www.levels.fyi](https://www.levels.fyi/)
+- https://www.teamblind.com/
+- https://layoffstracker.com/
 
-- [React Native](https://www.linkedin.com/groups/8364861/)
-- [React Developers - ReactJS & React Native Professional Development Mastermind](https://www.linkedin.com/groups/6519652/)
+### 🤖 Resume ATS checkers
 
-# 🥽Everything Else Section
+_(they seem to be all only partially working)_
 
-- [Meetup’s page of events tagged “react-native”](https://www.meetup.com/topics/react-native/)
-- [React Native Community Facebook Group](https://www.facebook.com/groups/react.native.community) _(it looks like it’s in a really bad shape?)_
-- [HackerNews](https://hn.algolia.com/?q=react-native) _(…because I guess why not?)_
+- https://enhancv.com/resources/resume-checker/
+- https://skillsyncer.com/features/ats-resume-checker
+- https://resumeworded.com/resume-scanner
+
+**but keep in mind →** https://twitter.com/GergelyOrosz/status/1598716891610087425
