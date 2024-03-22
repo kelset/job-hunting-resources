@@ -12,7 +12,7 @@
 
 # BASELINE
 
-### 🌍 Developer communities
+## 🌍 Developer communities
 
 - [Codebar](https://www.codebar.io/)
 - [Meetup](https://www.meetup.com/)
@@ -21,54 +21,54 @@
 - [WomenWhoCode](https://www.womenwhocode.com/)
 - [IndieHackers.com](https://www.indiehackers.com/)
 
-#### other lists
+#### 📃 Other Lists
 
-- https://www.smashingmagazine.com/2022/11/search-developer-job-abroad/
-- https://modernrecruiters.com/best-developer-communities/
+- [Search Developer Job Abroad - Smashing Magazine](https://www.smashingmagazine.com/2022/11/search-developer-job-abroad/)
+- [Best Developer Communities - Modern Recruiters](https://modernrecruiters.com/best-developer-communities/)
 
-### 🤓 Guides & articles & twitter threads
+## 🤓 Guides & articles & twitter threads
 
-- https://twitter.com/jesslynnrose/status/1592449469349388288
-- https://resumeworded.com/playbooks/career-change-checklist
-- https://twitter.com/patio11/status/1221683564950867968 (optimal way for a new job)
+- [Jesslyn Rose on Twitter](https://twitter.com/jesslynnrose/status/1592449469349388288)
+- [Career Change Checklist - Resume Worded](https://resumeworded.com/playbooks/career-change-checklist)
+- [Patrick McKenzie on Twitter](https://twitter.com/patio11/status/1221683564950867968) (Optimal way for a new job)
 - [How to prepare for losing your programming job](https://codewithoutrules.com/2020/05/14/prepare-losing-job/)
-- https://twitter.com/Mochievous/status/1267449504313286656 (apply to a job outside your country)
-- https://news.ycombinator.com/item?id=23455415 Ask HN: Moving from a startup to a big co, what should I be aware of?
-- https://twitter.com/JoshWComeau/status/1280171057832394752 (about cover letters)
-- https://www.jobsearch.dev/
-- https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556
-- https://mhlakhani.com/blog/2023/01/tech-job-market/
-- https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html
-- https://github.com/GuidoPenta/galactic-linkedin-profile-guide
-- https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start
-- https://github.com/cassidoo/getting-a-gig
+- [Applying to a job outside your country - Mochievous on Twitter](https://twitter.com/Mochievous/status/1267449504313286656)
+- [Ask HN: Moving from a startup to a big co - Y Combinator](https://news.ycombinator.com/item?id=23455415)
+- [About cover letters - Josh W Comeau on Twitter](https://twitter.com/JoshWComeau/status/1280171057832394752)
+- [Job Search Dev](https://www.jobsearch.dev/)
+- [Career Advice: Never Ignore a Recruiter - Index Medium](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
+- [Tech Job Market - Mhlakhani](https://mhlakhani.com/blog/2023/01/tech-job-market/)
+- [What We Look for in a Candidate - Huyenchip](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+- [Galactic LinkedIn Profile Guide - GitHub](https://github.com/GuidoPenta/galactic-linkedin-profile-guide)
+- [Sabotage Salary Negotiation - Interviewing.io Blog](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
+- [Getting a Gig - GitHub](https://github.com/cassidoo/getting-a-gig)
 
 ### 💭 Freelancing
 
-- https://github.com/sam-hosseini/freelancing-in-finland
-- https://gist.github.com/malarkey/4031110 (example of contract for freelancer)
-- https://dannybrown.blog/2020/06/11/unemployed-to-managing-director-in-one-easy-step/ (going freelance)
+- [Freelancing in Finland - GitHub](https://github.com/sam-hosseini/freelancing-in-finland)
+- [Example of contract for freelancer - Gist GitHub](https://gist.github.com/malarkey/4031110)
+- [Going freelance - Danny Brown Blog](https://dannybrown.blog/2020/06/11/unemployed-to-managing-director-in-one-easy-step/)
 
 ### 💻 AI based tools
 
-- https://resumaker.ai/
-- https://www.interviewsby.ai/
-- https://www.wonsulting.ai/
-- https://thejobforme.com/
-- https://jobhunnt.com/
-- https://getexistential.com/
-- https://www.jobscan.co/
-- https://aragon.ai/
-- https://recless.app/
-- https://jobprofile.io/
-- https://jobinterview.coach/
-- https://engage-ai.co/
-- https://app.yoodli.ai/
-- https://www.kickresume.com/en/
+- [Resumaker AI](https://resumaker.ai/)
+- [Interviews by AI](https://www.interviewsby.ai/)
+- [Wonsulting AI](https://www.wonsulting.ai/)
+- [The Job For Me](https://thejobforme.com/)
+- [JobHunnt](https://jobhunnt.com/)
+- [GetExistential](https://getexistential.com/)
+- [JobScan](https://www.jobscan.co/)
+- [Aragon AI](https://aragon.ai/)
+- [Recless App](https://recless.app/)
+- [JobProfile](https://jobprofile.io/)
+- [Job Interview Coach](https://jobinterview.coach/)
+- [Engage AI](https://engage-ai.co/)
+- [Yoodli AI](https://app.yoodli.ai/)
+- [Kickresume](https://www.kickresume.com/en/)
 
 ### 🖍️ Internships & Similar
 
-- [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 ### 🗒️ About writing resumes
 
