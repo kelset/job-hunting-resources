@@ -119,7 +119,7 @@
 - [TrueUp](https://www.trueup.io/)
   - An AI-improved version of basically a mix of those above
 
-### 🧩 **Open source specific**
+### 🧩 Open source specific
 
 - [Open Source Job Hub](https://opensourcejobhub.com/)
 - [Open Source Jobs - GitHub](https://github.com/t9tio/open-source-jobs)
@@ -128,7 +128,7 @@
 - [TrueUp for Open Source](https://www.trueup.io/open-source)
 - [Fossfox](https://fossfox.com/)
 
-### 🌍 **Remote specific**
+### 🌍 Remote specific
 
 - [Remote Friendly](https://remotefriendly.com/)
 - [Remote OK](https://remoteok.com/)
@@ -136,22 +136,22 @@
 - [Remote Jobs](https://remotejobs.com/)
 - [Full Remote (Italian)](https://fullremote.it/) 🇮🇹
 
-
 # THE EXTRA STEP
 
 ### 🔍 Company reviews / data / insider info
 
-- https://www.glassdoor.com/index.htm
-- [https://www.levels.fyi](https://www.levels.fyi/)
-- https://www.teamblind.com/
-- https://layoffstracker.com/
+- ~~[Glassdoor](https://www.glassdoor.com/index.html)~~
+  - actually don't use Glassdoor. They did a [massive fumble recently](https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/).
+- [Levels.fyi](https://www.levels.fyi/)
+- [Teamblind](https://www.teamblind.com/)
+- [Layoffs Tracker](https://layoffstracker.com/)
 
 ### 🤖 Resume ATS checkers
 
 _(they seem to be all only partially working)_
 
-- https://enhancv.com/resources/resume-checker/
-- https://skillsyncer.com/features/ats-resume-checker
-- https://resumeworded.com/resume-scanner
+- [Enhancv Resume Checker](https://enhancv.com/resources/resume-checker/)
+- [SkillSyncer ATS Resume Checker](https://skillsyncer.com/features/ats-resume-checker)
+- [Resume Worded Resume Scanner](https://resumeworded.com/resume-scanner)
 
-**but keep in mind →** https://twitter.com/GergelyOrosz/status/1598716891610087425
+**but keep in mind →** [Gergely Orosz on Twitter](https://twitter.com/GergelyOrosz/status/1598716891610087425)
