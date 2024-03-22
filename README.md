@@ -10,9 +10,29 @@
 <img alt="follow me on twitter" src="https://img.shields.io/twitter/follow/kelset?label=Follow%20%40kelset&style=social" />
 </a>
 
+- [BASELINE](#baseline)
+  - [🌍 Developer Communities](#-developer-communities)
+    - [📃 Other Lists](#-other-lists)
+  - [🤓 Guides \& Articles \& Twitter Threads](#-guides--articles--twitter-threads)
+    - [💭 Freelancing](#-freelancing)
+    - [💻 AI Based Tools](#-ai-based-tools)
+    - [🖍️ Internships \& Similar](#️-internships--similar)
+    - [🗒️ About Writing Resumes](#️-about-writing-resumes)
+    - [📝 Writing Resumes Tools](#-writing-resumes-tools)
+    - [🤖How To Use Chat Gpt](#how-to-use-chat-gpt)
+- [PLATFORMS TO FIND ROLES](#platforms-to-find-roles)
+  - [**The undisputed king: LinkedIn 👑**](#the-undisputed-king-linkedin-)
+  - [🤝 Platforms Where Companies Apply To You](#-platforms-where-companies-apply-to-you)
+  - [📌 Niche Communities Job Boards](#-niche-communities-job-boards)
+  - [🧩Open Source Specific](#open-source-specific)
+  - [🌍 Remote Specific](#-remote-specific)
+- [THE EXTRA STEP](#the-extra-step)
+  - [🔍 Company Reviews Data / Insider Info](#-company-reviews-data--insider-info)
+  - [🤖 Resume Ats Checkers](#-resume-ats-checkers)
+
 # BASELINE
 
-## 🌍 Developer communities
+## 🌍 Developer Communities
 
 - [Codebar](https://www.codebar.io/)
 - [Meetup](https://www.meetup.com/)
@@ -26,9 +46,8 @@
 - [Search Developer Job Abroad - Smashing Magazine](https://www.smashingmagazine.com/2022/11/search-developer-job-abroad/)
 - [Best Developer Communities - Modern Recruiters](https://modernrecruiters.com/best-developer-communities/)
 
-## 🤓 Guides & articles & twitter threads
+## 🤓 Guides & Articles & Twitter Threads
 
-- [Jesslyn Rose on Twitter](https://twitter.com/jesslynnrose/status/1592449469349388288)
 - [Career Change Checklist - Resume Worded](https://resumeworded.com/playbooks/career-change-checklist)
 - [Patrick McKenzie on Twitter](https://twitter.com/patio11/status/1221683564950867968) (Optimal way for a new job)
 - [How to prepare for losing your programming job](https://codewithoutrules.com/2020/05/14/prepare-losing-job/)
@@ -49,7 +68,7 @@
 - [Example of contract for freelancer - Gist GitHub](https://gist.github.com/malarkey/4031110)
 - [Going freelance - Danny Brown Blog](https://dannybrown.blog/2020/06/11/unemployed-to-managing-director-in-one-easy-step/)
 
-### 💻 AI based tools
+### 💻 AI Based Tools
 
 - [Resumaker AI](https://resumaker.ai/)
 - [Interviews by AI](https://www.interviewsby.ai/)
@@ -70,7 +89,7 @@
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
-### 🗒️ About writing resumes
+### 🗒️ About Writing Resumes
 
 - [How to Make a Resume for a Job - YouTube](https://www.youtube.com/watch?v=9eEv6bCtLmc)
 - [Resumes suck. Here’s the data. - Aline Lerner's Blog](http://blog.alinelerner.com/resumes-suck-heres-the-data/)
@@ -83,13 +102,13 @@
 - [Manage Employees on a Resume: Key Advice - Resume Worded](https://resumeworded.com/manage-employees-on-a-resume-key-advice)
 - [Galactic CV Guide - GitHub](https://github.com/GuidoPenta/galactic-CV-guide)
 
-### 📝 Writing resumes tools
+### 📝 Writing Resumes Tools
 
 - [Standard Resume](https://standardresume.co/)
 - [Resumey.Pro](https://resumey.pro/)
 - [Open Resume](https://www.open-resume.com/)
 
-### 🤖 How to use ChatGPT
+### 🤖How To Use Chat Gpt
 
 - [I wish every Job Seeker would watch this - YouTube](https://www.youtube.com/watch?v=ZXmbb5fPfgk&t=108s)
 - [Land a Job using ChatGPT: The Definitive Guide! - YouTube](https://www.youtube.com/watch?v=pmnY5V16GSE)
@@ -98,7 +117,7 @@
 
 ### **The undisputed king: [LinkedIn](https://www.linkedin.com) 👑**
 
-### 🤝 Platforms where companies apply to you
+### 🤝 Platforms Where Companies Apply To You
 
 - [Hired](https://hired.co.uk/)
 - [Talent.io](https://www.talent.io/p/en-gb/home)
@@ -110,7 +129,7 @@
   - [Toptal](https://www.toptal.com/)
   - [Gun.io](https://gun.io/)
 
-### 📌 Niche communities & job boards
+### 📌 Niche Communities Job Boards
 
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs)
 - [Hiring Without Whiteboards - GitHub](https://github.com/poteto/hiring-without-whiteboards)
@@ -119,7 +138,7 @@
 - [TrueUp](https://www.trueup.io/)
   - An AI-improved version of basically a mix of those above
 
-### 🧩 Open source specific
+### 🧩Open Source Specific
 
 - [Open Source Job Hub](https://opensourcejobhub.com/)
 - [Open Source Jobs - GitHub](https://github.com/t9tio/open-source-jobs)
@@ -128,7 +147,7 @@
 - [TrueUp for Open Source](https://www.trueup.io/open-source)
 - [Fossfox](https://fossfox.com/)
 
-### 🌍 Remote specific
+### 🌍 Remote Specific
 
 - [Remote Friendly](https://remotefriendly.com/)
 - [Remote OK](https://remoteok.com/)
@@ -138,7 +157,7 @@
 
 # THE EXTRA STEP
 
-### 🔍 Company reviews / data / insider info
+### 🔍 Company Reviews Data / Insider Info
 
 - ~~[Glassdoor](https://www.glassdoor.com/index.html)~~
   - actually don't use Glassdoor. They did a [massive fumble recently](https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/).
@@ -146,7 +165,7 @@
 - [Teamblind](https://www.teamblind.com/)
 - [Layoffs Tracker](https://layoffstracker.com/)
 
-### 🤖 Resume ATS checkers
+### 🤖 Resume Ats Checkers
 
 _(they seem to be all only partially working)_
 
