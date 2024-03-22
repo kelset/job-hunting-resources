@@ -72,28 +72,28 @@
 
 ### 🗒️ About writing resumes
 
-- [How to Make a Resume for a Job](https://www.youtube.com/watch?v=9eEv6bCtLmc)
-- [Resumes suck. Here’s the data.](http://blog.alinelerner.com/resumes-suck-heres-the-data/)
-- [Lessons from a year’s worth of hiring data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
-- [https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html](https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html?campaign_id=12&instance_id=28337&nl=your-money&regi_id=150195311&segment_id=53938&te=1&user_id=c7171fc9d27bc81913733c6703093a61)
-- https://twitter.com/CyberKenna/status/1518301702163779584
-- https://www.youtube.com/watch?v=Kpm8rEywBDQ
-- https://resumeworded.com/gap-on-resume-key-advice
-- https://resumeworded.com/resume-trends-2023-key-advice
-- https://resumeworded.com/blog/executive-resume/
-- https://resumeworded.com/manage-employees-on-a-resume-key-advice
-- https://github.com/GuidoPenta/galactic-CV-guide
+- [How to Make a Resume for a Job - YouTube](https://www.youtube.com/watch?v=9eEv6bCtLmc)
+- [Resumes suck. Here’s the data. - Aline Lerner's Blog](http://blog.alinelerner.com/resumes-suck-heres-the-data/)
+- [Lessons from a year’s worth of hiring data - Aline Lerner's Blog](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
+- [Resume Filter Artificial Intelligence - The New York Times](https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html)
+- [CyberKenna on Twitter](https://twitter.com/CyberKenna/status/1518301702163779584)
+- [Gap on Resume: Key Advice - Resume Worded](https://resumeworded.com/gap-on-resume-key-advice)
+- [Resume Trends 2023: Key Advice - Resume Worded](https://resumeworded.com/resume-trends-2023-key-advice)
+- [Executive Resume - Resume Worded Blog](https://resumeworded.com/blog/executive-resume/)
+- [Manage Employees on a Resume: Key Advice - Resume Worded](https://resumeworded.com/manage-employees-on-a-resume-key-advice)
+- [Galactic CV Guide - GitHub](https://github.com/GuidoPenta/galactic-CV-guide)
 
 ### 📝 Writing resumes tools
 
-- https://standardresume.co/
-- https://resumey.pro/
-- https://www.open-resume.com/
+- [Standard Resume](https://standardresume.co/)
+- [Resumey.Pro](https://resumey.pro/)
+- [Open Resume](https://www.open-resume.com/)
 
 ### 🤖 How to use ChatGPT
 
-- [I wish every Job Seeker would watch this](https://www.youtube.com/watch?v=ZXmbb5fPfgk&t=108s)
-- [Land a Job using ChatGPT: The Definitive Guide!](https://www.youtube.com/watch?v=pmnY5V16GSE)
+- [I wish every Job Seeker would watch this - YouTube](https://www.youtube.com/watch?v=ZXmbb5fPfgk&t=108s)
+- [Land a Job using ChatGPT: The Definitive Guide! - YouTube](https://www.youtube.com/watch?v=pmnY5V16GSE)
+
 
 # PLATFORMS TO FIND ROLES
 
