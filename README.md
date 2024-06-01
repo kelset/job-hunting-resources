@@ -95,12 +95,13 @@
 - [Resumes suck. Here’s the data. - Aline Lerner's Blog](http://blog.alinelerner.com/resumes-suck-heres-the-data/)
 - [Lessons from a year’s worth of hiring data - Aline Lerner's Blog](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
 - [Resume Filter Artificial Intelligence - The New York Times](https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html)
-- [CyberKenna on Twitter](https://twitter.com/CyberKenna/status/1518301702163779584)
+- [Quick Guide To Improving Your Resume By CyberKenna](https://twitter.com/CyberKenna/status/1518301702163779584)
 - [Gap on Resume: Key Advice - Resume Worded](https://resumeworded.com/gap-on-resume-key-advice)
 - [Resume Trends 2023: Key Advice - Resume Worded](https://resumeworded.com/resume-trends-2023-key-advice)
 - [Executive Resume - Resume Worded Blog](https://resumeworded.com/blog/executive-resume/)
 - [Manage Employees on a Resume: Key Advice - Resume Worded](https://resumeworded.com/manage-employees-on-a-resume-key-advice)
 - [Galactic CV Guide - GitHub](https://github.com/GuidoPenta/galactic-CV-guide)
+- [Resume Tip For The Age of AI](https://x.com/CupcakeGoth/status/1794487242410619368)
 
 ### 📝 Writing Resumes Tools
 
