@@ -61,6 +61,7 @@
 - [Galactic LinkedIn Profile Guide - GitHub](https://github.com/GuidoPenta/galactic-linkedin-profile-guide)
 - [Sabotage Salary Negotiation - Interviewing.io Blog](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
 - [Getting a Gig - GitHub](https://github.com/cassidoo/getting-a-gig)
+- ⭐️ Ten Rules for Negotiating a Job Offer [Part 1](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) and [Part 2](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 
 ### 💭 Freelancing
 
