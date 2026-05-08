@@ -110,6 +110,7 @@
 - [Resumey.Pro](https://resumey.pro/)
 - [Open Resume](https://www.open-resume.com/)
 - [Resumx](https://resumx.dev)
+- [JobSprout](https://jobsprout.ai)
 
 ### 🤖How To Use Chat Gpt
 
