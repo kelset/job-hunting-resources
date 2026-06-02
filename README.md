@@ -140,6 +140,7 @@
 - [Wellfound (formerly AngelList)](https://wellfound.com/)
 - [TrueUp](https://www.trueup.io/)
   - An AI-improved version of basically a mix of those above
+- [FoundRole](https://www.foundrole.com/) - *suggested by @foundrole*
 
 ### 🧩Open Source Specific
 
