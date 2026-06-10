@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- [DearHiringManager](https://dearhiringmanager.io) - Paste a job posting URL, get the hiring manager's name, email and LinkedIn in ~60s. Free, no signup. - *suggested by @[Franbomber18]
 
 ### 🖍️ Internships & Similar
 
