@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- [Showcase](https://app.tryshowcase.ink/?utm_source=github&utm_medium=community_resource&utm_campaign=direct100_20260710&utm_content=job_hunting_resources) - Turns a resume into an editable, evidence-first portfolio for early-career job seekers without inventing claims. Build, edit, and preview are free; publishing live is Pro. - *suggested by @09Kdyutit*
 
 ### 🖍️ Internships & Similar
 
