@@ -110,6 +110,7 @@
 - [Resumey.Pro](https://resumey.pro/)
 - [Open Resume](https://www.open-resume.com/)
 - [Resumx](https://resumx.dev)
+- [FoundRole Resume Builder](https://www.foundrole.com/resume-builder) - upload your existing resume, it gets read into a profile so you never retype it, then tailor a version per role. PDF, DOCX and TXT export, no watermark - *suggested by @foundrole*
 
 ### 🤖How To Use Chat Gpt
 
@@ -176,5 +177,6 @@ _(they seem to be all only partially working)_
 - [Enhancv Resume Checker](https://enhancv.com/resources/resume-checker/)
 - [SkillSyncer ATS Resume Checker](https://skillsyncer.com/features/ats-resume-checker)
 - [Resume Worded Resume Scanner](https://resumeworded.com/resume-scanner)
+- [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - shows what a parser actually reads off your resume: job title, years, skills, sections and contact details, plus what it loses - *suggested by @foundrole*
 
 **but keep in mind →** [Gergely Orosz on Twitter](https://twitter.com/GergelyOrosz/status/1598716891610087425)
