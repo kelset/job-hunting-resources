@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- [speaking.app](https://speaking.app/) - *suggested by @Bjarten*
 
 ### 🖍️ Internships & Similar
 
