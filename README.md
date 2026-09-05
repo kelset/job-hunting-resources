@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- [OneWayPrep](https://onewayprep.app/) — One-way video interview practice with job-tailored questions, timed preparation, and local recording. Free basic feedback; optional paid coaching. *suggested by @lio222832*
 
 ### 🖍️ Internships & Similar
 
