@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- [ProfessionalHeadshot](https://professionalheadshot.io/) - AI professional headshot generator for LinkedIn and resumes - *suggested by @jacobGor123*
 
 ### 🖍️ Internships & Similar
 
