@@ -140,6 +140,8 @@
 - [Wellfound (formerly AngelList)](https://wellfound.com/)
 - [TrueUp](https://www.trueup.io/)
   - An AI-improved version of basically a mix of those above
+- [RobotTraining.jobs](https://robottraining.jobs)
+  - Paid robot teleoperation, demonstration recording and AV or drone test-operator jobs from about 60 robotics and AI employers, with posted pay
 
 ### 🧩Open Source Specific
 
