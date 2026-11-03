@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- [career-ops](https://github.com/career-ops-hq/career-ops) - open-source AI job search agent that scores jobs against your CV ([career-ops.org](https://career-ops.org)) - *suggested by @santifer*
 
 ### 🖍️ Internships & Similar
 
