@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- [Prizm](https://heyprizm.com/en?utm_source=github-job-hunting-resources&utm_medium=annuaire&utm_campaign=annuaires-2026-11) - *suggested by @TheHubHQ*
 
 ### 🖍️ Internships & Similar
 
