@@ -175,5 +175,6 @@ _(they seem to be all only partially working)_
 - [Enhancv Resume Checker](https://enhancv.com/resources/resume-checker/)
 - [SkillSyncer ATS Resume Checker](https://skillsyncer.com/features/ats-resume-checker)
 - [Resume Worded Resume Scanner](https://resumeworded.com/resume-scanner)
+- [SmartJobTools ATS Resume Checker](https://smartjobtools.blogspot.com/p/resume-analyzer.html) - *suggested by @krd-beep*
 
 **but keep in mind →** [Gergely Orosz on Twitter](https://twitter.com/GergelyOrosz/status/1598716891610087425)
