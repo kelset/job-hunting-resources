@@ -157,6 +157,7 @@
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remote Jobs](https://remotejobs.com/)
 - [Full Remote (Italian)](https://fullremote.it/) 🇮🇹
+- [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings. - *suggested by @Simple96*
 
 # THE EXTRA STEP
 
