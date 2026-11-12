@@ -138,6 +138,7 @@
 - [Hiring Without Whiteboards - GitHub](https://github.com/poteto/hiring-without-whiteboards)
 - [Work at a Startup](https://www.workatastartup.com/)
 - [Wellfound (formerly AngelList)](https://wellfound.com/)
+- [caio.pro](https://caio.pro/) — AI leadership roles. - *suggested by @100gen*
 - [TrueUp](https://www.trueup.io/)
   - An AI-improved version of basically a mix of those above
 
