@@ -79,6 +79,7 @@
 - [GetExistential](https://getexistential.com/)
 - [JobScan](https://www.jobscan.co/)
 - [Aragon AI](https://aragon.ai/)
+- [FotoApta](https://fotoapta.com/en/ai-headshot/) - Optional AI profile portraits: free watermarked preview, US$9.99 once for six HD images. - *suggested by @MMMystery (maintainer)*
 - [Recless App](https://recless.app/)
 - [JobProfile](https://jobprofile.io/)
 - [Job Interview Coach](https://jobinterview.coach/)
