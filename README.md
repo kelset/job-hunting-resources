@@ -85,6 +85,7 @@
 - [Engage AI](https://engage-ai.co/)
 - [Yoodli AI](https://app.yoodli.ai/)
 - [Kickresume](https://www.kickresume.com/en/)
+- * [JobResumeAI Job Description Keyword Finder](https://jobresumeai.com/job-description-keyword-finder) *suggested by @AbidAhmed2018831062*
 
 ### 🖍️ Internships & Similar
 
